@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/tu-do-dau-tien-va-cuoi-cung/feed/" rel="self" type="application/rss+xml" />
 	<link>https://seal2104.github.io/hoanghaiwordpress/san-pham/tu-do-dau-tien-va-cuoi-cung/</link>
 	<description></description>
-	<lastBuildDate>Mon, 17 Oct 2022 14:22:13 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Oct 2022 02:12:54 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
