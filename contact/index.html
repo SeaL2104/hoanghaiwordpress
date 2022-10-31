@@ -886,5 +886,14 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 	<script>/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);</script>
 	
 	</div>
+	<link rel="stylesheet" href="https://unpkg.com/kursor/dist/kursor.css">
+	<script src="https://unpkg.com/kursor"></script>
+	<script>
+		new kursor({
+			type: 1,
+			color: 'rgb(36, 198, 226)',
+			removeDefaultCursor: false,	
+		})
+	</script>
 </body>
 </html>
